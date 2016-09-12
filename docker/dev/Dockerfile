@@ -35,3 +35,5 @@ CMD ["python", "manage.py", "test", "--noinput"]
 # Add application source
 COPY src /application 
 WORKDIR /application 
+
+#change
